@@ -1,7 +1,10 @@
 build/
+bin/
+bin-int/
 imgui.ini
 settings.ini
 .vscode/
+*vcxproj*
 CMakeSettings.json
 out/
 .vs/
